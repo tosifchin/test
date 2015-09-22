@@ -1,2 +1,2 @@
 # test
-exercise 1
+repository for exercise 1
